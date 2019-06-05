@@ -13,7 +13,7 @@
 		671C355A22A1B28600F4B2FE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 671C355822A1B28600F4B2FE /* Main.storyboard */; };
 		671C355C22A1B28600F4B2FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 671C355B22A1B28600F4B2FE /* Assets.xcassets */; };
 		671C355F22A1B28600F4B2FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 671C355D22A1B28600F4B2FE /* LaunchScreen.storyboard */; };
-		67EE755D22A1CE2B009EDF85 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 67EE755C22A1CE2B009EDF85 /* GoogleService-Info.plist */; };
+		6E913D1422A35FD900FCEC75 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6E913D1322A35FD900FCEC75 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,11 +24,11 @@
 		671C355B22A1B28600F4B2FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		671C355E22A1B28600F4B2FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		671C356022A1B28600F4B2FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		67EE755C22A1CE2B009EDF85 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../.Trash/GoogleService-Info.plist"; sourceTree = "<group>"; };
-		67EE755E22A3528C009EDF85 /* Home.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Home.storyboard; path = /Users/matteoagius/Downloads/Bandz/Bandz/Home.storyboard; sourceTree = "<absolute>"; };
-		67EE755F22A35293009EDF85 /* Search.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Search.storyboard; path = /Users/matteoagius/Downloads/Bandz/Bandz/Search.storyboard; sourceTree = "<absolute>"; };
-		67EE756022A35298009EDF85 /* Events.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Events.storyboard; path = /Users/matteoagius/Downloads/Bandz/Bandz/Events.storyboard; sourceTree = "<absolute>"; };
-		67EE756122A3529B009EDF85 /* Profile.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Profile.storyboard; path = /Users/matteoagius/Downloads/Bandz/Bandz/Profile.storyboard; sourceTree = "<absolute>"; };
+		67EE755E22A3528C009EDF85 /* Home.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Home.storyboard; path = /Users/austinrath/Desktop/Bandz/Bandz/Home.storyboard; sourceTree = "<absolute>"; };
+		67EE755F22A35293009EDF85 /* Search.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Search.storyboard; path = /Users/austinrath/Desktop/Bandz/Bandz/Search.storyboard; sourceTree = "<absolute>"; };
+		67EE756022A35298009EDF85 /* Events.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Events.storyboard; path = /Users/austinrath/Desktop/Bandz/Bandz/Events.storyboard; sourceTree = "<absolute>"; };
+		67EE756122A3529B009EDF85 /* Profile.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Profile.storyboard; path = /Users/austinrath/Desktop/Bandz/Bandz/Profile.storyboard; sourceTree = "<absolute>"; };
+		6E913D1322A35FD900FCEC75 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		7CB349EA9A2694B03D5864A6 /* Pods-Bandz.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bandz.debug.xcconfig"; path = "Target Support Files/Pods-Bandz/Pods-Bandz.debug.xcconfig"; sourceTree = "<group>"; };
 		9F7C1D540F89950D64EFACED /* Pods-Bandz.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bandz.release.xcconfig"; path = "Target Support Files/Pods-Bandz/Pods-Bandz.release.xcconfig"; sourceTree = "<group>"; };
 		C5192ECCBE5640489F341C33 /* Pods_Bandz.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Bandz.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -84,7 +84,7 @@
 				67EE756122A3529B009EDF85 /* Profile.storyboard */,
 				671C355B22A1B28600F4B2FE /* Assets.xcassets */,
 				671C355D22A1B28600F4B2FE /* LaunchScreen.storyboard */,
-				67EE755C22A1CE2B009EDF85 /* GoogleService-Info.plist */,
+				6E913D1322A35FD900FCEC75 /* GoogleService-Info.plist */,
 				671C356022A1B28600F4B2FE /* Info.plist */,
 			);
 			path = Bandz;
@@ -161,7 +161,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				671C355F22A1B28600F4B2FE /* LaunchScreen.storyboard in Resources */,
-				67EE755D22A1CE2B009EDF85 /* GoogleService-Info.plist in Resources */,
+				6E913D1422A35FD900FCEC75 /* GoogleService-Info.plist in Resources */,
 				671C355C22A1B28600F4B2FE /* Assets.xcassets in Resources */,
 				671C355A22A1B28600F4B2FE /* Main.storyboard in Resources */,
 			);
@@ -355,7 +355,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 57B7N4W84N;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Bandz/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.MatteoAustin.Bandz;
@@ -371,7 +371,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 57B7N4W84N;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Bandz/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.MatteoAustin.Bandz;
